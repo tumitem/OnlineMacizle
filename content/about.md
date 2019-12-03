@@ -1,5 +1,5 @@
 ---
-title: About Gamer Assistant
+title: About
 menu: Esport World
 draft: true
 ---
