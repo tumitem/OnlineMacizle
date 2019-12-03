@@ -1,21 +1,14 @@
 ---
-title: About
-date: 2019-07-09
-menu: main
+title: About Gamer Assistant
+menu: Esport World
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
-
-## How to use?
-
-### Managing content with [Forestry](https://forestry.io)
-
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
-
+> I founded the online mazicle website a long time ago, at the beginning of 2008. After some time I didn't extend the domain and unfortunately I lost a lot of value. At that time it was called differently, it looked different... Everything was different! Invariably, however, this place remains a friendly environment for all players and streamers. Anyway 10 years ago hardly anyone knew who this streamer is and why it can make money on what it does. How is it possible. But still.
+>
+> How many players are there now, experts on the subject and many people aspiring to this name. What I'm talking about. For example, about the fact that as a player you can earn more than the whole village... Of course, I'm exaggerating. Anyway. I will lead you through this world and you will judge for yourself.
+>
+> You will find all kinds of content in me. In the coming weeks I will send you interesting materials to read, watch and listen to. It will not be boring! So expect interesting materials from me. Many of them can only be found in the newsletter!
+>
+> If the world of players is a novelty for you, I invite you to a website created especially for you !
+>
+>
