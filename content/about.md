@@ -1,7 +1,7 @@
 ---
 title: About
 menu: Esport World
-draft: true
+draft: false
 ---
 > I founded the online mazicle website a long time ago, at the beginning of 2008. After some time I didn't extend the domain and unfortunately I lost a lot of value. At that time it was called differently, it looked different... Everything was different! Invariably, however, this place remains a friendly environment for all players and streamers. Anyway 10 years ago hardly anyone knew who this streamer is and why it can make money on what it does. How is it possible. But still.
 >
