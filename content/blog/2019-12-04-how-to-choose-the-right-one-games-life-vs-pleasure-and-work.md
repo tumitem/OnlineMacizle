@@ -8,7 +8,7 @@ tags:
   - Work
   - Esport
   - Information
-draft: true
+draft: false
 ---
 Probably nobody will count how much time in our lives we have wasted on entering website addresses, switching between bookmarks and finding valuable content. We will not regain that time, but we may not lose any more days and months. Today I'll give you a brief overview of the sources of information for young and old about games, news and business.
 
