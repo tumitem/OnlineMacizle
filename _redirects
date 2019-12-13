@@ -1,8 +1,4 @@
-[[redirects]]
-  from = "https://why000.netlify.com/*"
-  to = "https://onlinemacizle.org/"
-  status = 301
-  force = true
+https://why000.netlify.com/* https://onlinemacizle.org/:splat 301!
 
 
 
