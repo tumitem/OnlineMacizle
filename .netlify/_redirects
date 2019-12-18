@@ -1,8 +1,1 @@
-# These rules will change if you change your site’s custom domains or HTTPS settings
-
-# Redirect domain aliases to primary domain
-https://www.onlinemacizle.org/* https://onlinemacizle.org/:splat 301!
-https://onlinemacizle.org/* https://onlinemacizle.org/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://why000.netlify.com/* https://onlinemacizle.org/:splat 301!
+https://why000.netlify.com/* https://www.onlinemacizle.org/:splat 301!
