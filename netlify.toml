@@ -10,9 +10,9 @@
   command = "chmod +x .netlify/build.sh && bash .netlify/build.sh $DEPLOY_PRIME_URL"
 
 [[redirects]]
-  from = "/https://why000.netlify.com/"
+  from = "https://why000.netlify.com/"
   to = "https://www.onlinemacizle.org/"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"}
   conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
