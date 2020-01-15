@@ -1,7 +1,7 @@
 ---
 title: Gaming House's own strengths
 date: 2020-01-15T08:03:57.153Z
-image: /images/Zrzut ekranu z 2020-01-13 12-19-27.png
+image: /images/Zrzut ekranu z 2020-01-15 09-17-57.png
 tags:
   - Fixed
   - investment
