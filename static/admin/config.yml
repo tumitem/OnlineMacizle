@@ -114,4 +114,4 @@ collections:
                 name: "identity"
                 widget: "object"
                 fields:
-                  - {label: "Version", name: "version", widget: "string", default: "v1", required: true}
+                  - {label: "x", name: "x", widget: "x", default: "v1", required: false}
