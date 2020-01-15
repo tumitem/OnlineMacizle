@@ -54,7 +54,7 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string", default: "Cecil", required: true}
           - {label: "Baseline", name: "baseline", widget: "string", default: "Your blog's butler.", required: true}
-          - {label: "Description", name: "description", widget: "string", default: "A ready to use static blog, powered by Cecil and Hyde.", required: true}
+          - {label: "Description", name: "description", widget: "string", default: "A ready to use static blog, powered by Onlinemacizle.org.", required: true}
           - {label: "Base URL", name: "baseurl", widget: "string", default: "/", required: true}
           - {label: "Use canonical URL", name: "canonicalurl", widget: "boolean", default: true, required: true}
           - {label: "Theme", name: "theme", widget: "string", default: "hyde"}
