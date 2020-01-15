@@ -1,6 +1,6 @@
 # The Butler
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
+> A ready to use static blog, powered by [Cecil app](https://cecil.app) and [Hyde app](https://github.com/Cecilapp/theme-hyde).
 
 ![Cecil preview](static/images/cecil-preview.png)
 
