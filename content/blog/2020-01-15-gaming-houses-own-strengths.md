@@ -42,9 +42,9 @@ draft: false
 ## Return on investment Assumptions
 
 * Plot size - 100 ares
-* Price of the plot - 600 000 PLN
-* Cost of 1 square meter - 5000 PLN
-* Sale of 1 m2 of space - about 7000
+* Price of the plot - 600 000 USD
+* Cost of 1 square meter - 5000 USD
+* Sale of 1 m2 of space - about 7000 - 12000 USD per year
 
 ## Fixed costs 
 
