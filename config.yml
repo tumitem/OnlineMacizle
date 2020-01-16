@@ -27,4 +27,4 @@ netlify:
     path: admin
     version: latest
   identity:
-#     version: v1
+    version: v1
