@@ -1,6 +1,6 @@
 ---
 title: 'Legal aspects of streaming - games, life, films of others'
-date: 2020-01-16T07:53:23.998Z
+date: 2020-01-16T06:53:00.000Z
 image: /images/Zrzut ekranu z 2020-01-16 09-25-03.png
 tags:
   - Streamers
