@@ -11,7 +11,7 @@ tags:
   - Twitch
   - Mixer
   - ''
-draft: true
+draft: false
 ---
 ## You play games and make money?
 
