@@ -8,7 +8,7 @@ tags:
   - APEX - gaming
   - esports
   - comedy
-draft: true
+draft: false
 ---
 How many can you read one and the same thing? How much can you play a boring game that does not change. How many cosmetic changes can you make and pretend that we care about our players?
 
