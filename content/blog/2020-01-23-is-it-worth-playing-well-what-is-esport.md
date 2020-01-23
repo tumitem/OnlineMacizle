@@ -1,6 +1,7 @@
 ---
 title: 'Is it worth playing? Well, what is esport'
 date: 2020-01-23T09:11:45.025Z
+image: /images/Zrzut ekranu z 2020-01-23 10-30-47.png
 tags:
   - esport
   - streaming
