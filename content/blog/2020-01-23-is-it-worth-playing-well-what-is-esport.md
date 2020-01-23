@@ -6,12 +6,12 @@ tags:
   - streaming
   - playing
   - csgo
-  - sports career
+  - esports career
   - gamblers life
 draft: false
 ---
 \
-I have been running the players' website, tournaments since March 2014 and since then I have constantly heard some statements and questions: 
+I have been running the players' website and tournaments since March 2014 and since then I have constantly heard some statements and questions: 
 
 ## ***Is it worth playing ?*** ***I don't have time to stream. I don't have parents who like it.***
 
@@ -27,9 +27,7 @@ They couldn't or didn't want to limit the time to play by themselves. And I thin
 
 I think that's enough "mandate" to share my experience. 
 
-
-
-## **It's not always worth playing and streaming.** If you don't feel it. Don't do it. But watch. 
+## **It's not always worth playing and streaming.** If you don't feel it. Don't do it. But watch.
 
 ###### Watch how the world is changing. Cosplayers are only a fraction of what's around the esport. That's why I'm promoting **wise playing and wise streaming** on my blog. Wise, that is, one in which we try to reduce unnecessary costs of our time while increasing the effects.
 
