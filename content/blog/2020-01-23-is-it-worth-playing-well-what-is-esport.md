@@ -11,7 +11,6 @@ tags:
   - gamblers life
 draft: false
 ---
-\
 I have been running the players' website and tournaments since March 2014 and since then I have constantly heard some statements and questions: 
 
 ## ***Is it worth playing ?*** ***I don't have time to stream. I don't have parents who like it.***
@@ -32,6 +31,6 @@ I think that's enough "mandate" to share my experience.
 
 ###### Watch how the world is changing. Cosplayers are only a fraction of what's around the esport. That's why I'm promoting **wise playing and wise streaming** on my blog. Wise, that is, one in which we try to reduce unnecessary costs of our time while increasing the effects.
 
-The point is that there is no single instruction for player's success. Each of us is different, has different preferences, different level of expectations from life, different priorities. That is why it is worthwhile to individually adjust every aspect of our life to each other. \
-\
-I also recommend that you don't focus solely on sport. In my opinion **the best development strategy is ... continuous development. Continuous change. And eternal questioning of what someone...writes.**
+The point is that there is no single instruction for player's success. Each of us is different, has different preferences, different level of expectations from life, different priorities. That is why it is worthwhile to individually adjust every aspect of our life to each other. 
+
+I also recommend that you don't focus solely on sport. In my opinion the best development strategy is ... continuous learning. Continuous change. And eternal questioning of what someone...writes.
