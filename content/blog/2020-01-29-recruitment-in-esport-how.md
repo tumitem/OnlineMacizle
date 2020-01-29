@@ -13,14 +13,14 @@ draft: false
 
 A job advertisement for a remote job, i.e. playing, streaming, is no different from a standard job advertisement. To gather all the information in one place, below is a proposed list of basic sections in such an advertisement
 
-* Briefly about the company 
+* Briefly about the gaming company 
 * Terms of reference 
-* Bbenefits, advantages besides ..playing) 
+* Benefits, advantages besides ..playing) 
 * required/preferred competences and skills 
 
 In addition, a minimum one-course description of a typical working day should be included: it will enable candidates to understand better whether this is something for them (for example: You will start at 11 a.m. and finish at 7 p.m., but it will be up to you to decide where you want to go and with what tools. 
 
-### Determine the scale of remote working and its conditions. 
+### Determine the scale of remote working and its conditions.
 
 Are there any hours? Is it supposed to be just 8 hours of work, but done in any way? Or maybe not the hours are important, but the final effect? It's worth to be more precise.
 
