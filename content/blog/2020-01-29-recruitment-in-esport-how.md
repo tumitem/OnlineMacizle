@@ -1,6 +1,7 @@
 ---
 title: '# RECRUITMENT IN ESPORT : HOW?'
 date: 2020-01-29T12:17:05.913Z
+image: /images/Zrzut ekranu z 2020-01-27 10-31-21.png
 tags:
   - Esport
   - remote working
