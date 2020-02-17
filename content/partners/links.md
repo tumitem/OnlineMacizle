@@ -2,11 +2,12 @@
 title: Partners websites
 date: 2029-07-16T11:37:00.000Z
 tags:
-  - Podziękowania
-  - Granie
-  - Biznes
+  - Friends
+  - Sports
+  - Betting
+  - Partners
   - Esport
-  - Rozrywka
+  - Links
 draft: false
 ---
 
