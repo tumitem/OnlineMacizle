@@ -16,5 +16,5 @@ draft: false
 <a href="https://www.mrcasinoslots.com/best-slot-sites" target="_blank" title="Best Slot Sites">Best Slot Sites</a> <br/>
  <a href="http://www.footstats.co.uk" target="_blank">The Essential Data Source for understanding and analysis of the UK, Scottish and European Football Scene.</a> <br/>
   <a href="https://footyguru365.com/" target="_blank">Football Betting Tips</a><br/>
-<a href="http://www.nasetipy.com/" title="Nasetipy.com - The best betting web from Czech republic and Slovakia" target="_blank">Nasetipy.com</a> - The best betting web from Czech republic and Slovakia.<br/>
-Check out gooner news daily on <a href="https://www.goonerrepublic.com/category/gooner-news/">gooner news</a>
+
+
