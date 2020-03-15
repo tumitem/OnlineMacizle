@@ -18,7 +18,7 @@ draft: false
   <a href="https://footyguru365.com/" target="_blank">Football Betting Tips</a><br/>
     <a href="http://registerbet.com">Free Betting Prediction</a>,
  <a href="https://www.betsuperb.com/" target="_blank">Superb Betting Tips</a><br/>
-
+<a href="http://www.nasetipy.com/" title="Nasetipy.com - The best betting web from Czech republic and Slovakia" target="_blank">Nasetipy.com</a>
 💥 Service reserved for Medium & High budget investors only!
 💥 Give bets from the closing line 20-30 minutes before the start of the match when maxbet of Picks by PINNACLE is very high.
 💥 Only picks of cards (bookings)  or Corners AH & O/U.
