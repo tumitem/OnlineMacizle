@@ -1,6 +1,6 @@
 {
   "name": "cecil/starter-blog",
-  "composer-plugin-api": "^1.0".
+  "composer-plugin-api": "^1.0",
   "description": "Your blog's butler.",
   "license": "MIT",
   "type": "project",
