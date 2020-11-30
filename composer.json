@@ -14,9 +14,6 @@
   ],
   "require": {
     "cecil/theme-hyde": "^1.15"
-  },
- "require": {
-    "cecil/theme-installer": "^1.3"
-}
+  }
   
 }
