@@ -1,5 +1,6 @@
 {
   "name": "cecil/starter-blog",
+  "composer-plugin-api": "^1.0,
   "description": "Your blog's butler.",
   "license": "MIT",
   "type": "project",
@@ -13,5 +14,9 @@
   ],
   "require": {
     "cecil/theme-hyde": "^1.15"
-  }
+  },
+ "require": {
+    "cecil/theme-installer": "^1.3"
+}
+  
 }
