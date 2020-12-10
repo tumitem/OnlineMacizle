@@ -22,8 +22,4 @@ draft: false
  <a href="https://fixed-games.com/" title="Fixed betting tips for successful football betting">Betting Predictions</a>
  
 
-💥 Service reserved for Medium & High budget investors only!
-💥 Give bets from the closing line 20-30 minutes before the start of the match when maxbet of Picks by PINNACLE is very high.
-💥 Only picks of cards (bookings)  or Corners AH & O/U.
-PIck verified by independent sources blogabet and  betonsuccess.
-Link to channel  👉 https://t.me/CardsPicks
+
