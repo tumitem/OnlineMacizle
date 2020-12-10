@@ -1,30 +1,19 @@
-title: Gamer Assistants
-baseline: esports player's assistant - it is me
-description: Your writing maniac about esport business and expansion games and much more
+title: The Butler
+baseline: Your blogging assistant
+description: A ready to use static blog, powered by Cecil.
 baseurl: /
 canonicalurl: true
-theme: hyde
+keywords: [Cecil, Static Site Generator, SSG]
+author: Arnaud Ligny
 date:
   format: j F Y
   timezone: Europe/Paris
-pagination:
-  max: 5
-  path: page
-output:
-  formats:
-    netlify_redirects:
-      extension: ''
-      mediatype: text/plain
-virtualpages:
-  _redirects:
-    output: netlify_redirects
-  admin:
-    layout: admin/index
-    title: Content Manager (Netlify CMS)
-    output: html
-netlify:
-  cms:
-    path: admin
-    version: latest
-  identity:
-    version: v1
+theme:
+  - hyde
+  - netlify
+  - netlify-cms
+hyde:
+  sidebar:
+    sticky: true # Content to the bottom of the sidebar
+  theme: '' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  reverse: false # Reverse layout
