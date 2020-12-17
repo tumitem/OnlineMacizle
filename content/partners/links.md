@@ -1,5 +1,5 @@
 ---
-title: Partners websites
+title: Ads & contact
 date: 2029-07-16T11:37:00.000Z
 tags:
   - Friends
