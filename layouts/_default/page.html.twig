@@ -37,6 +37,19 @@
 {% endif %}
         </nav>
         <span style="font-size: 9px; line-height: 0.4em;">
+
+
+       
+{% endblock sidebar %}
+      </div>
+    </div>
+    <div class="content container">
+{% block content %}
+      <h1 class="page-title">{{ page.title }}</h1>
+      {{ page.content }}
+{% endblock %}
+
+partners: 
         <p>Are you a sports analyst too? Popular livescores and forecast sites : </p>
         <a href="http://www.betmagnet.com/en/" title="Description: Betmagnet - Personal Bet Tracking">Track And Analyze Your Bets</a>,
        <a href="https://stefanieburt.com/posts/everyone-is-an-expert-in-esports/">Experts in esports </a>,
@@ -83,17 +96,11 @@
         <a href="https://11livefootball.com/">Football Live Video/a>,
 <a href="https://www.dream11predictionsguru.com"title="Get the Best Expert Dream11 Predictions and Fantasy Tips for Today's Match">
    Dream11 Expert Today</a>
+test3
 
-       
-{% endblock sidebar %}
-      </div>
+
+
     </div>
-    <div class="content container">
-{% block content %}
-      <h1 class="page-title">{{ page.title }}</h1>
-      {{ page.content }}test2
-{% endblock %}test3
-    </div>
-  test34
+  
   </body>
 </html>
