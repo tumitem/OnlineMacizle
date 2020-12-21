@@ -1,7 +1,7 @@
 {% extends '_default/page.html.twig' %}
 
-{% block head %} QQQQQQQQQ
-{{ parent() }} EEEEEEEEEEE
+{% block head %}
+{{ parent() }} 
     <!-- Netlify Identity -->
     <script src="https://identity.netlify.com/{{ site.netlify.identity.version|default('v1') }}/netlify-identity-widget.js"></script>
     {% apply minify_js %}<script>
@@ -16,8 +16,8 @@
       }
     </script>{% endapply %}
 
-{% if page.forestry_instant_preview_id is defined %} WWWWWWWWWWWWWW
+{% if page.forestry_instant_preview_id is defined %} 
     <!-- Forestry.io Instant Preview -->
     <meta property="forestry:preview:id" content="{{ page.forestry_instant_preview_id }}">
-{% endif %} RRRRRRRRRRRRRRRRRRRR
-{% endblock head %} TTTTTTTTTTTTTTTTTTTTTTTT
+{% endif %} 
+{% endblock head %} 
